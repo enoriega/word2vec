@@ -4,7 +4,7 @@ Fork of the original archived word2vec code modified to compile on macOS.
 
 Original sources fetched from https://code.google.com/archive/p/word2vec/source/default/source
 
-===
+---
 
 # Original README.txt
 
